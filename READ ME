@@ -1,0 +1,27 @@
+# Cloud AI with AWS Internship Projects
+
+This repository contains hands-on projects completed as part of the
+**Cloud AI with AWS Internship by Cloudcredits**.
+
+## Projects Included
+1. Rapid Document Conversion
+2. Windows Virtual Machine Deployment
+3. Mass Emailing using AWS Lambda
+4. Website Development using AWS
+5. Serverless Web Application
+6. Chatbot using AWS Lex
+7. Content Recommendation System
+8. Real-time Data Processing Application
+
+## Technologies Used
+- AWS S3
+- AWS EC2
+- AWS Lambda
+- AWS IAM
+- AWS Textract
+- AWS Lex
+- AWS DynamoDB
+- AWS API Gateway
+
+## Author
+**Om**
